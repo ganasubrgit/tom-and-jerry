@@ -6,7 +6,7 @@ line5 = "However, the cat soon realizes that he has the free run of the refriger
 
 Question:
 =========
-Write a code to loop thougth the above variables and look for the word "Tom" or "Jerry" and print as below:
+Write a code to loop througth the above variables and look for the word "Tom" or "Jerry" and print as below:
 
 Output:
 =======
