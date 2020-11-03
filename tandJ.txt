@@ -3,3 +3,14 @@ line2 = "Tom weighs the mouse down enough such that he can no longer see in fron
 line3 = "Jerry salutes the cat and returns the slice of cheese to the refrigerator. He then proceeds to steal just a tiny bit of cheese"
 line4 = "but Tom stomps on his tail with one of his hind paws and replaces the cheese as if to say"
 line5 = "However, the cat soon realizes that he has the free run of the refrigerator, so he traps Jerry's tail with an iron and begins eating. Jerry frees himself"
+
+Question:
+=========
+Write a code to loop thougth the above variables and look for the word "Tom" or "Jerry" and print as below:
+
+Output:
+=======
+    Line1 has the word "Tom" 1 time
+    Line2 has the word "Jerry" 1 time 
+    ......
+    ......
