@@ -14,3 +14,11 @@ Output:
     Line2 has the word "Jerry" 1 time 
     ......
     ......
+    
+    (or)
+    
+    Line1 has the word Tom 1 time and Jerry 1 time
+    Line2 has the word Tom 2 times and Jerry 1 time
+    Line3 has the word Tom 0 time and Jerry 1 time
+    Line4 has the word Tom 1 time and Jerry 0 time
+    Line5 has the word Tom 0 time and Jerry 2 times
